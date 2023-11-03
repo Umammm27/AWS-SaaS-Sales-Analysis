@@ -8,6 +8,13 @@ How can a company still get high profits but still get loyalty from customers an
 
 > **Objective** : To clean, analyze and visualize the data to observe how Customer habits, business background and location can influence a company's ability to make a profit.
 
+## Business Problem
+1. Does the amount of the discount given affect profits?
+2. Information regarding the customer's company affects the profits obtained by our company.
+3. Analyze differences in customer backgrounds that affect profits in our company.
+4. What is the time period experienced by our company that has significant profit?
+5. What are our recommendations for future sales strategies that will provide high profits to the company.
+
 ## Summary & Recommendation
 **Summary :**
 1. The amount of the discount given turns out to influence profit negatively, although the magnitude of the influence is not that strong (meaning: the higher the discount given, the profit will decrease). <br>
